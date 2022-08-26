@@ -1,5 +1,0 @@
-git init
-git agregar README.md
-git commit -m "notebook first commit"
-git remoto agregar origen https://github.com/eloisacorti/Waste_analysis
-git push -u origin master
